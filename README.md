@@ -1,10 +1,10 @@
 # ECE444-F2020-Lab3
 Name: Haonan Sun
-this repo is a clone of
+This repo is a clone of
 https://github.com/miguelgrinberg/flasky
 
 ## Activity 1
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity1.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/main/Activity1.png)
 
 ## Activity 2
 - Reproduce example 4-7 in your repo, commit the code with reasonable commit message.
@@ -12,13 +12,13 @@ https://github.com/miguelgrinberg/flasky
 remind the user to fill in a UofT email (see screenshot below).
 - Submit a commit.
 - Run the project and make a screenshot.
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-1.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/main/Activity2-1.png)
 - Fill in your First name and your UofT email address, click submit (make a screenshot)
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-2.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/main/Activity2-2.png)
 - Fill in your First name and Last name in the 1st field, and fill in your first name in the 2nd field, click submit. You will receive an error message (make a screenshot)
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-3.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/main/Activity2-3.png)
 - Fill in your First name and Last name in the 1st field, and fill in your NON UofT email in the 2nd field, click submit. (make a screenshot)
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-4.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/main/Activity2-4.png)
 
 ## Activity 3: The difference between SQL or NoSQL database.
 
