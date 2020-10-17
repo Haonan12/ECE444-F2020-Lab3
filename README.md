@@ -16,15 +16,24 @@ https://github.com/miguelgrinberg/flasky
 Briefly summarize the differences between Docker and Virtual Machine.
 
 Virtual Machine
+
 A virtual system which acts exactly like a computer.
+
 Hardware-level process isolation
+
 Each VM has a separate OS
+
 VMs are of few GBs
+
 More resource usage
 
 Docker
 Docker is to make creation, deployment, and running of application bu using container
+
 OS level process isolation
+
 Each container can share OS
+
 Containers are lightweight (KBs/MBs)
+
 Less resource usage
