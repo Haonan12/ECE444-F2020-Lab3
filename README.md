@@ -27,7 +27,11 @@ VMs are of few GBs
 
 More resource usage
 
+
+
+
 Docker
+
 Docker is to make creation, deployment, and running of application bu using container
 
 OS level process isolation
