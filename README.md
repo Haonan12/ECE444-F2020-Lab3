@@ -6,9 +6,9 @@ https://github.com/miguelgrinberg/flasky
 ## Activity 1
 ## Activity 2
 
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-1.png)
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-2.png)
-![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/master/Activity2-3.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Activity2-1.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Activity2-2.png)
+![alt text](https://github.com/Haonan12/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Activity2-3.png)
 
 
 ## Activity 3: 
